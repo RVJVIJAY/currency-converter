@@ -33,14 +33,18 @@ Follow the steps below to install and run the project on your local machine:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/currency-converter-vite-react.git
+   git clone https://github.com/RVJVIJAY/currency-converter
 2.**Navigate to the project directory:**
+
      cd currencyapp
 3.**Install dependencies using npm or yarn:**
+
     npm install
 4.**Start the development server:**
+
     npm run dev
 5.**Open the app in your browser:**
+
     Once the development server is running, open http://localhost:5173 to view the application in your browser.
 
 📋 Usage
